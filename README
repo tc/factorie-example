@@ -1,6 +1,6 @@
-How to develop with Factorie, a probalistic modeling toolkit written in Scala
+How to develop with Factorie, a probabilistic modeling toolkit written in Scala
 --
-Factorie is a toolkit for developing probalistic modeling. It is scalable and flexible and allows you to create factor graphs and perform inference. It is written by Andrew Mccallum and his research group at UMass. They previously written Mallet, the java package for text mining. I found that being written in Scala made the code very succinct and clear. You can learn more from its <a href="http://code.google.com/p/factorie/">google project page</a>. Prompted by setup questions, I decided to write a quick guide to using Factorie on a mac osx. 
+Factorie is a toolkit for developing probabilistic modeling. It is scalable and flexible and allows you to create factor graphs and perform inference. It is written by Andrew Mccallum and his research group at UMass. They previously written Mallet, the java package for text mining. I found that being written in Scala made the code very succinct and clear. You can learn more from its <a href="http://code.google.com/p/factorie/">google project page</a>. Prompted by setup questions, I decided to write a quick guide to using Factorie on a mac osx. 
 
 Start with cloning the source code:
 hg clone https://factorie.googlecode.com/hg/ factorie
