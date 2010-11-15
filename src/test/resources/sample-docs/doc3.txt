@@ -1,0 +1,46 @@
+Would e-mail transform Facebook, or vice versa?
+by Stephen Shankland
+Font size
+Print
+E-mail
+Share
+43 comments
+ 
+Share
+ 
+220
+5digg
+
+Facebook's invite for its event next week.
+(Credit: CNET)
+Facebook has overcome plenty of challenges and defied plenty of detractors in its ascent to Internet power. It looks likely to take on a new set of both Monday with an expected new e-mail service.
+ZDNet blogger Mary Jo Foley published word of the expected Facebook e-mail service yesterday, along with the possibility that Facebook will integrate it with Microsoft's online Office tools. And today, TechCrunch also said Facebook will unveil its e-mail service, called Titan. Facebook's invitation, styled like an air mail envelope, suggests there's truth to the reports.
+E-mail is in many ways a natural extension of Facebook's service. Both are about communicating with your contacts.
+But true e-mail would be a big change for Facebook for one reason: for it to reach its full potential, the service would have to reach beyond Facebook's walled garden.
+Facebook already has a rudimentary system for direct, private messages among its members, including several people in one discussion thread. But it's missing not just the ability to communicate outside Facebook, but also countless useful features available in real e-mail. Forget filtering, free-form attachments, a means to organize messages, and access from third-party e-mail client software such as Outlook or Thunderbird.
+Facebook's e-mail future
+The company looks set to launch an e-mail service. Would it be for you?
+Yes. It's where friends hang out online already.
+No. Doesn't Facebook lock up enough online social life?
+Maybe--if Facebook actually improves e-mail.
+VOTEView results
+
+The big missing piece is the ability to reach to contacts beyond Facebook. Restricting messages to members of Facebook--except perhaps as an early stage to work out the kinks and accustom Facebook users and advertisers to the service--would be a regression to the bad old days of AOL, CompuServe, and Prodigy.
+Even if Facebook e-mail can communicate with the outside world, as seems likely, there are different degrees of openness and control that come with Web-based e-mail.
+Google's Gmail is the leader right now when it comes to e-mail openness. E-mail software, mobile phones, and rival e-mail services can check Gmail through the POP or IMAP e-mail transfer protocols. That makes it possible, for example, to back up your entire e-mail archive with Thunderbird if you want to move to a different service. And Gmail messages can automatically be forwarded to another address if want to try it without committing or to dump it for something else.
+That's not to suggest it's impossible to launch a walled-off service. I just think it would be a step in the wrong direction.
+Instant messaging provides a cautionary tale. With largely non-interoperable networks from Yahoo, Microsoft, and AOL, we had to grapple with multiple chat programs, getting our contacts to join our networks, or employ imperfectly compatible multi-network chat programs. And instead of instant messaging growing to be a full-fledged service fundamental to Net communications, it was left stagnating on the sidelines. Who knows what IM might have blossomed into had it been shared or standardized?
+Facebook vs. Google
+Will Facebook match Gmail's relative openness with its own e-mail service? The recent spat between Google and Facebook regarding members' ownership of contact data, including Google's new requirements of sharing reciprocity for those who ingest Gmail contacts data, puts the question into sharper focus.
+It also shows just how fierce the fight is between the two companies over social matters. Gmail hasn't truly been threatened by Facebook so far. But Google hasn't been able to match Facebook's social networking tools and membership participation, despite Buzz riding on the coattails of the Gmail contacts list.
+Facebook has a real shot at being relevant for personal e-mail, given how many hours people spend there already. With Facebook pages, the service is getting more of a business angle, at least for promotional purposes, but I don't imagine companies will be ditching Exchange for Facebook any time soon.
+It's hard to get people to switch e-mail services, though. Google's Gmail is the present darling of the techno-in-crowd, even to the point that the trend-mocking Stuff White People Like blog asserts that having a Hotmail, Yahoo Mail, or AOL e-mail address is grounds for breaking up. Yet those older services still have tens of millions of active members. Inertia is a powerful force, especially when it comes to the hassles of changing your contact information with friends, banks, airlines, retailers, business contacts, and countless other organizations that use your address.
+The big unknown, though, is what Facebook e-mail could supply beyond an inbox and address book. Gmail genuinely innovated with storage capacity, the ability to archive e-mail, secure communications by default, and customization through labs features. What might Facebook accomplish, especially given its quantitative knowledge of who is most important to whom in the social realm?
+
+Stephen Shankland
+ Full ProfileE-mail Stephen Shankland
+Stephen Shankland writes about a wide range of technology and products, but has a particular focus on browsers and digital photography. He joined CNET News in 1998 and since then also has covered Google, Yahoo, servers, supercomputing, Linux and open-source software, and science. E-mail Stephen, follow him on Twitter at http://www.twitter.com/stshank, or contact him through Google Buzz.
+
+
+Read more: http://news.cnet.com/8301-30685_3-20022625-264.html#ixzz15NQQ7DqY
+

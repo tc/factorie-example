@@ -1,0 +1,47 @@
+China unseats U.S. in supercomputer ranking
+by Erica Ogg
+Font size
+Print
+E-mail
+Share
+59 comments
+ 
+Share
+ 
+162
+0digg
+The Jaguar has fallen from the top of the food chain.
+When the Top 500 list of the world's most powerful supercomputers is released today, the Cray XT5 system at Oak Ridge National Laboratory and run by the University of Tennessee, called "Jaguar," will drop to No. 2 after a year of eating the lunch of every other supercomputer in the world. In its place will stand Tianhe-1A, a system built by China's National University of Defense Technology, located at the National Supercomputing Center in Tianjin.
+Tianhe-1A achieved a performance level of 2.67 petaflop/s (quadrillions of calculations per second). Jaguar achieved 1.75 petaflop/s. Third place went to another Chinese-built system, called Nebulae, which achieved 1.27 petaflop/s.
+And while the news of China's achievement is not exactly a surprise, the supercomputing community in the U.S. is looking at it two ways: as both as an assurance that U.S. software and components are still elite in their field, and a wake-up call that the country's prestige in high-performance computing is not a given.
+"This is what everybody expected. What the Chinese have done is they're exploiting the power of GPUs (graphic processing unit) which are...awfully close to being uniquely suited to this particular benchmark," said Bill Gropp, computer science professor at the University of Illinois Urbana-Champagne, and co-principal investigator of the Blue Waters project, another supercomputer in the works.
+The benchmark he's speaking of is the Linpack, which tests the performance of a system for solving a dense system of linear equations. It's measured in calculations or floating point operations per second, hence flop/s. Not everyone in this field agrees it's the best possible way to compare machines, but it is one way.
+By using GPUs to accelerate the performance of the Tianhe-1A, the machine can achieve more floating point operations per second.
+"The way most of us look at the Chinese machine, is it's very good at this particular problem (the Linpack benchmark), but not problems the user community is interested in," said Gropp.
+For those worried that this is a blow to the United States' leadership in supercomputing, it's actually not a huge cause for alarm if you consider the provenance of the pieces of the Chinese system. Tianhe-1A is a Linux computer built from components from Intel and Nvidia, points out Charlie Zender, professor of Earth Systems Science at the University of California at Irvine.
+ 
+A timeline of supercomputing speed. (Click to enlarge.)
+(Credit: AMD)
+"So we find ourselves admiring an achievement that certainly couldn't have been done without the know-how of Silicon Valley...and an operating system designed mostly by the United States and Europe," Zender said. "It's a time for reflection that we are now at a stage where a country that's motivated and has the resources can take off-the-shelf components and assemble the world's fastest supercomputer."
+Supercomputers will likely get faster every year, points out Jeremy Smith, director of the Center for Molecular Biophysics at the University of Tennessee, so China's rise to the top this month isn't the end of the story. The list will likely be reordered again in June, when the next edition of the Top500 is released.
+"What you find historically with these supercomputers is they become the normal machines five or 10 years later that everybody uses," said Smith, who oversees some projects run on Jaguar. "The Jaguar machine that we're so amazed at right now, it could be every university or company has one" eventually.
+And of course these high-performance computer systems aren't just made to race each other, most scientists in the field would argue. They're made to solve complex problems, with eventual real-world consequences like climate change and alternative fuel production.
+Smith argues that research like what's being done on Jaguar to solve the problem of superconductivity at high temperatures couldn't necessarily be done on Tianhe-1A effectively because it requires very efficient computing and coming up with the software on a computer to do that well is difficult.
+But what China has accomplished is still important for supercomputing, argues Gropp, who called the number of flop/s Tianhe-1A achieved "remarkable."
+"I don't want to downplay what they've done," he said. "It's like pooh-poohing the original Toyota. The first Toyota was a pile of junk. But a few years later they were eating our lunch."
+It's not the first time that a non-U.S. machine has topped the rankings--the Japanese NEC Earth Simulator did it in 2004. The U.S. of course bounced back, and as of today has 275, or more than half of the systems, on the Top 500 list. China is next with 42 systems, and Japan and Germany are tied with 26 each. Still, there is concern that China's focused concentration of resources on supercomputing is fomenting a threat to the U.S.' long-term dominance there. But just trying to score the highest on the Linpack benchmark--something that any group of researchers with enough money could do fairly easily--is short-sighted.
+"What we should be focusing on is not losing our leadership and being able to apply computing to a broad range of science and engineering problems," said Gropp, who is also deputy director of research at UI's Institute for Advanced Computing Applications and Technologies.
+The Presidential Council of Advisors on Science and Technology (PCAST) is currently working on a report that addresses this exact topic, and didn't have a comment when contacted. Recently PCAST did release a draft of a document that calls for more funding for scientific computing very soon after news of Tianhe-1A's speed began to spread. And President Barack Obama weighed in briefly on the topic in a speech two weeks ago, calling for increased science funding specifically for high-performance computing.
+But it's not as if the supercomputing community in the U.S has been sitting still while China sneaked up behind them. There are other projects in the works at U.S. labs that are planning on blowing Jaguar and Tianhe-1A out of the water in terms of speed.
+Currently the University of Illinois Urbana-Champagne and the National Science Foundation is building Blue Waters, a supercomputer that researchers say will be the fastest in the world when it is turned on sometime next year.
+The Department of Energy, which owns Oak Ridge's Jaguar supercomputer, is already looking at moving from the current peta-scale computing (a quadrillion floating point operations per second) to exa-scale computing (a quintillion floating point operations per second), a speed a thousand times faster than Jaguar is currently capable of processing at. It's a goal that's still a ways out there, but the work is under way.
+"To get there in the next five to 10 years, to get to 10 million cores in one room, is a major technical challenge," noted University of Tennessee's Jeremy Smith. "It's going to be fundamentally different than before. It's a hardware problem, and getting the software working is a major challenge indeed."
+For more statistics on the systems in the Top500 list, please see Top500.org.
+
+Erica Ogg
+ Full ProfileE-mail Erica Ogg
+Erica Ogg is a CNET News reporter who covers Apple, HP, Dell, and other PC makers, as well as the consumer electronics industry. She's also one of the hosts of CNET News' Daily Podcast. In her non-work life, she's a history geek, a loyal Dodgers fan, and a mac-and-cheese connoisseur. E-mail Erica.
+
+
+Read more: http://news.cnet.com/8301-31021_3-20022731-260.html#ixzz15NQJhwaE
+

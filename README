@@ -1,0 +1,60 @@
+How to develop with Factorie, a probalistic modeling toolkit written in Scala
+--
+Factorie is a toolkit for developing probalistic modeling. It is scalable and flexible and allows you to create factor graphs and perform inference. It is written by Andrew Mccallum and his research group at UMass. They previously written Mallet, the java package for text mining. I found that being written in Scala made the code very succinct and clear. You can learn more from its <a href="http://code.google.com/p/factorie/">google project page</a>. Prompted by setup questions, I decided to write a quick guide to using Factorie on a mac osx. 
+
+Start with cloning the source code:
+hg clone https://factorie.googlecode.com/hg/ factorie
+
+Factorie uses <a href="http://maven.apache.org/">maven</a> to manage its build and dependenices. It is an open source package from apache so download it and learn a little how it works.
+Compile the code into a jar:
+cd factorie
+mvn install
+
+This will create a factorie jar file in target/factorie*.jar and install it into your local maven repo. (most likely ~/.m2)
+
+Now that you have factorie jar in your maven repo, clone a sample factorie project:
+git clone git@github.com:tc/factorie-example.git
+
+In the factorie-example directory, you'll notice a pom.xml. Inside the file, you'll see:
+          <dependency>
+            <groupId>cc.factorie</groupId>
+            <artifactId>factorie</artifactId>
+            <version>0.9.1-SNAPSHOT</version>
+        </dependency>
+You may have to change the version to match the updated factorie jar version.
+
+This sample project has two files:
+src/main/scala/factorie/LDAExample.scala
+src/main/scala/factorie/LDAExampleTest.scala
+
+It's good practice to have a unit test for your code. In this case, the unit test is trivial as it just runs the scala class, but ideally you have some type of assert you want to perform.
+
+Compile and run it using:
+mvn test
+
+You should see an output of listed topics:
+.....Iteration 20
+alpha = 0.7897046248435047 1.083615490115922 1.3493645028398928 0.8200016581775706 1.1115652808961307 1.7646165019929618 2.0397615066201604 1.8106654639049065 1.75947360834168 1.2876416992683335
+Topic 0  china science achieved contacts powerful power urbana find faster projects
+Topic 1  computing performance list chinese gropp problems smith years today tennessee
+Topic 2  service stephen full messages members data twitter contacts services plenty
+Topic 3  world erica announcement computer floating components center states couldn fastest
+Topic 4  jaguar point ogg year high benchmark speed supercomputers community time
+Topic 5  itunes features print mac kessler suggests back challenge tomorrow tuesday
+Topic 6  mail facebook google shankland people address big reach ability aol
+Topic 7  system news university tianhe top topher national called supercomputing font
+Topic 8  apple share supercomputer systems operations machine company based released place
+Topic 9  gmail cnet software digg supercomputing social comments technology expected linpack
+
+Be sure to look into src/main/scala/cc/factorie/example directory in the factorie source code for more examples.
+
+
+If you use an IDE like Eclipse or Intelij IdeaX, type:
+mvn eclipse:eclipse
+or
+mvn idea:idea
+to generate the IDE project files.
+
+Additionally, you can just edit using VIM or Emacs and compile using maven.
+
+
